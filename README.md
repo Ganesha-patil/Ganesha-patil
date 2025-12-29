@@ -61,6 +61,9 @@ Passionate and results-driven Software Developer with strong skills in full stac
 ## 🛠 Backend & Server-side
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/servlet/)
+[![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/pages/)
+
 
 ---
 
