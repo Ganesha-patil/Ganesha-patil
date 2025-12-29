@@ -2,11 +2,11 @@
 <div align="center">
 
 
-# 👋 Hi, I'm Tilak Saurabh  
-### Software Developer | Java Full Stack | DevOps Enthusiast
+# 👋 Hi, I'm Ganesh Patil
+### Software Developer | Java Full Stack 
 
 <p align="center">
-  <a href="https://github.com/SaurabhTilak05">
+  <a href="https://github.com/Ganesha-patil">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Java+Developer;Full+Stack+Learner;Problem+Solving+Mindset;Love+DSA+and+Coding" alt="Typing SVG" />
   </a>
 </p>
@@ -30,13 +30,13 @@ Passionate and results-driven Software Developer with strong skills in full stac
 
 ### 📧 Contact
 
-- 📧 **Email:** saurbhtilak6@gmail.com  
-- 📞 **Phone:** +91 9765303776  
+- 📧 **Email:** ganesha9146@gmail.com  
+- 📞 **Phone:** +91 9146262282 
 
 <div >
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-tilak-502ab6350/)<br><br>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SaurabhTilak05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganesha-patil-640364367/)<br><br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesha-patil)
 
 </div>
 
@@ -60,8 +60,6 @@ Passionate and results-driven Software Developer with strong skills in full stac
 
 ## 🛠 Backend & Server-side
 
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 
 ---
@@ -77,7 +75,7 @@ Passionate and results-driven Software Developer with strong skills in full stac
 [![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
 
 ---
 
@@ -85,7 +83,6 @@ Passionate and results-driven Software Developer with strong skills in full stac
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
 ---
 
@@ -165,8 +162,8 @@ A web application that connects **Job Seekers**, **HR Recruiters**, and **Admin*
 
 
 
-  - 🎓 **Bachelor of Computer Science** - 8.30 CGPA  
-   Dr. Babasaheb Ambedkar University, Sambhajinagar (Beed)
+  - 🎓 **Bachelor of Computer Application** - 8.4 CGPA  
+  College Of Computer Science and Information Technology Latur 
 
-- 🏫 **HSC (12th Grade)** – 89.50%   
-  Shri Nigmanand Vidyalay Nimgaon Mayamba
+- 🏫 **HSC (12th Grade)** – 95.50%   
+  Dayanand Science College Latur
