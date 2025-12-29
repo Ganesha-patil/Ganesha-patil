@@ -91,12 +91,6 @@ Passionate and results-driven Software Developer with strong skills in full stac
 [![Windows](https://img.shields.io/badge/Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
 
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- 🛠 Backend: Node.js, Express.js  
-- 💾 Database: MySQL  
-- 🧰 Tools: VSCode, IntelliJ, Postman, Git, GitHub  
-
----
 
 ## 🎓 Education
 
