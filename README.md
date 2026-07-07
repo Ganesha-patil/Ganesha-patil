@@ -58,13 +58,13 @@ Passionate and results-driven Software Developer with strong skills in full stac
 
 ---
 
-## 🛠 Backend & Server-side
+## 🛠 Backend & Frameworks
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Servlet](https://img.shields.io/badge/Servlet-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/servlet/)
 [![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)](https://jakarta.ee/specifications/pages/)
-
-
 ---
 
 ## 🗃️ Databases
